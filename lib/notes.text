@@ -1,0 +1,6 @@
+ insert/read/update/delete queries
+
+// local data
+1- sqlite   // need to create table
+2- shard  //  save in json file
+3 - hive // save as object
